@@ -1,0 +1,15 @@
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\obj\Debug\net6.0\leetcodeReal.csproj.AssemblyReference.cache
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\obj\Debug\net6.0\leetcodeReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\obj\Debug\net6.0\leetcodeReal.AssemblyInfoInputs.cache
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\obj\Debug\net6.0\leetcodeReal.AssemblyInfo.cs
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\obj\Debug\net6.0\leetcodeReal.csproj.CoreCompileInputs.cache
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\bin\Debug\net6.0\leetcodeReal.exe
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\bin\Debug\net6.0\leetcodeReal.deps.json
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\bin\Debug\net6.0\leetcodeReal.runtimeconfig.json
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\bin\Debug\net6.0\leetcodeReal.dll
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\bin\Debug\net6.0\leetcodeReal.pdb
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\obj\Debug\net6.0\leetcodeReal.dll
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\obj\Debug\net6.0\refint\leetcodeReal.dll
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\obj\Debug\net6.0\leetcodeReal.pdb
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\obj\Debug\net6.0\leetcodeReal.genruntimeconfig.cache
+C:\Users\Carl\source\repos\leetcodeReal\leetcodeReal\obj\Debug\net6.0\ref\leetcodeReal.dll
