@@ -1,6 +1,6 @@
 ﻿public class RomanToInt
 {
-   
+   // convert roman numerals to Int
     public static int RomanToIntFunction(string s)
     {
         int sum = 0;
